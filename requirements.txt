@@ -1,1 +1,2 @@
-imc.py
+streamlit
+pendas
