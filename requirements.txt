@@ -1,1 +1,5 @@
-imc.py
+Django
+Gunicorn
+Bruit blanc
+psycopg2-binaire
+Streamlit
